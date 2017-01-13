@@ -6,4 +6,4 @@ You can also add
 ```
 compile 'com.android.volley:volley:1.0.0'
 ```
-to your `dependencies` in 'build.gradle' file
+to your `dependencies` in `build.gradle` file
